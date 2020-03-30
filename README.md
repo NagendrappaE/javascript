@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=jlsKtMfGEvo&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYY
 #1 https://javascript.info/map-set
 
 #1 use visual studio 
-#2 downoad  few plugins
+#2 downoad  few plugins (Babel ES6/ES7)
 
 #3 create js files 
 
