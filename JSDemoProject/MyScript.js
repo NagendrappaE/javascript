@@ -35,3 +35,12 @@ document.addEventListener('click',  function(event){
     event.target.textContent='yes i clicked '+new Date()
     console.log('i clicked '+event)
 })
+
+function showMessage(){
+
+    document.getElementById('p1').innerText="OTP generated"
+
+    setTimeout(1000,function(){
+        
+    })
+}
